@@ -1,3 +1,2 @@
-print(Hello world!)   # missing quotes – invalid Python
-
+print("Hello, world!")
 
